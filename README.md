@@ -1,3 +1,6 @@
+# my solution to the Comma AI controls challenge using a fuzzy logic controller
+
+
 # Comma Controls Challenge!
 ![Car](./imgs/car.jpg)
 
